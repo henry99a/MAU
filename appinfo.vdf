@@ -156,7 +156,7 @@
 		"19" "1684"
 	}
 	"review_score" "6"
-	"review_percentage" "77"
+	"review_percentage" "73"
 }
 "extended"
 {
@@ -197,18 +197,18 @@
 		{
 			"public"
 			{
-				"gid" "8721650700418887447"
-				"size" "3243968130"
-				"download" "2783613440"
+				"gid" "4269957522366941383"
+				"size" "3247228946"
+				"download" "2786830528"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "8B40EB11D2EF89C9C1186CC006B36966"
-				"size" "E9496F4CA4F569695CBE6AB9ED006B20"
-				"download" "E138785480382FEE9794567BF6158045"
+				"gid" "0FFBCC8CB60D8A44E89C49CF5D98B3C6"
+				"size" "C765D574E15DA44EA492E62CF5839F35"
+				"download" "BE8AB5D9B76C9E3CE79C3451D6672DDF"
 			}
 			"alphadev"
 			{
@@ -218,9 +218,15 @@
 			}
 			"beta"
 			{
-				"gid" "F4D93A90588EAA8D1FC604BC10EE0335"
-				"size" "D8186C4D56046574516961390107AB2C"
-				"download" "6E30959B05294E6C0412DE001B5742E3"
+				"gid" "CBA58EDF63BC440328AAF2318C9F1E5F"
+				"size" "B0B991151FBE046B5191C4C4C33D43DB"
+				"download" "3A61DEA7D98488DEC448CF1CF676EDCC"
+			}
+			"formb"
+			{
+				"gid" "354FB958C9DC0FC87DB3F3651C0994E0"
+				"size" "AB8FDCC93FB5EDC9BE6C18DF8876A59C"
+				"download" "318BC5C6CE0489A1658D3CB07F7041F1"
 			}
 			"trungtest"
 			{
@@ -234,14 +240,14 @@
 	{
 		"public"
 		{
-			"buildid" "13363612"
-			"timeupdated" "1707080223"
+			"buildid" "13412568"
+			"timeupdated" "1707480729"
 		}
 		"alpha"
 		{
-			"buildid" "13363612"
+			"buildid" "13412568"
 			"pwdrequired" "1"
-			"timeupdated" "1707080095"
+			"timeupdated" "1707480092"
 		}
 		"alphadev"
 		{
@@ -251,9 +257,15 @@
 		}
 		"beta"
 		{
-			"buildid" "13363612"
+			"buildid" "13412560"
 			"pwdrequired" "1"
-			"timeupdated" "1707080103"
+			"timeupdated" "1707468422"
+		}
+		"formb"
+		{
+			"buildid" "13394511"
+			"pwdrequired" "1"
+			"timeupdated" "1707323993"
 		}
 		"trungtest"
 		{
@@ -279,6 +291,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22204919"
-"_sha" "908f6cf6bf59ad4c2d767ca7fe4a88787b4e8b3f"
-"_size" "5305"
+"_change_number" "22276367"
+"_sha" "26493b87ebee5ce59569cd342db146f5441827db"
+"_size" "5578"

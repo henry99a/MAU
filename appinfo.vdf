@@ -1,0 +1,181 @@
+"appid" "2278520"
+"common"
+{
+	"name" "Enshrouded Dedicated Server"
+	"type" "Tool"
+	"parent" "1203620"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "93dd534afbe8af5bf11f3990de9aa295031bfeb9"
+	"clienttga" "fe73371754e5775388602786867295c4c3820fe5"
+	"icon" "557a4d508c28df929080361f076a8a84a92556e2"
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.2700228832952"
+			"height_pct" "33.66261473947938"
+		}
+	}
+	"store_asset_mtime" "1705584682"
+	"associations"
+	{
+	}
+	"steam_release_date" "1706106600"
+	"gameid" "2278520"
+}
+"config"
+{
+	"installdir" "EnshroudedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "enshrouded_server.exe"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1923798258558304932"
+				"size" "44194776"
+				"download" "13804528"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4884950798805348056"
+				"size" "73781292"
+				"download" "20270768"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2278521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "22754511789054541"
+				"size" "12797028643"
+				"download" "2841003504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"server_hosting"
+			{
+				"gid" "0C352F65B765E0BFC20C431FA969E6DD"
+				"size" "50566F69B7AF9857DA63755A1EE15E89"
+				"download" "9D85AF2A68D2051F5DE38E91B991A2F9"
+			}
+			"stable"
+			{
+				"gid" "9FA6193A050D09A9EE66E6F7609936D7"
+				"size" "563D48344CCD0441554E36EE7F10EC82"
+				"download" "B69AB568F9B00F1FD5431DC9A0D0756F"
+			}
+			"unstable"
+			{
+				"gid" "B5EA1DE905386947173CB74401179966"
+				"size" "5BD89A346CD387D38D4F9A13EDBA1EE9"
+				"download" "206313639C8EB5BDC6E03E6E4D1AAD58"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13371130"
+			"timeupdated" "1707212318"
+		}
+		"server_hosting"
+		{
+			"buildid" "13414911"
+			"pwdrequired" "1"
+			"timeupdated" "1707486422"
+		}
+		"stable"
+		{
+			"buildid" "13145308"
+			"pwdrequired" "1"
+			"timeupdated" "1705052101"
+		}
+		"unstable"
+		{
+			"buildid" "13414911"
+			"pwdrequired" "1"
+			"timeupdated" "1707486414"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22277582"
+"_sha" "a7f777dd961dbfcfd8a2a73caa97632e8cca1114"
+"_size" "2965"

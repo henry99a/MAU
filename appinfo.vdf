@@ -142,8 +142,8 @@
 		"5" "1646"
 		"6" "3813"
 		"7" "1662"
-		"8" "615955"
-		"9" "1708"
+		"8" "1708"
+		"9" "615955"
 		"10" "19"
 		"11" "122"
 		"12" "16094"
@@ -156,7 +156,7 @@
 		"19" "1684"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -197,18 +197,18 @@
 		{
 			"public"
 			{
-				"gid" "4269957522366941383"
-				"size" "3247228946"
-				"download" "2786830528"
+				"gid" "7989345419065280345"
+				"size" "3172331885"
+				"download" "2714212192"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "0FFBCC8CB60D8A44E89C49CF5D98B3C6"
-				"size" "C765D574E15DA44EA492E62CF5839F35"
-				"download" "BE8AB5D9B76C9E3CE79C3451D6672DDF"
+				"gid" "284C8D3E905BC3A39D7E82460E42DB55"
+				"size" "FFC7DDF61F21F022D2DF22021D9814DC"
+				"download" "5E1C26095FBA0466522435421003A6AE"
 			}
 			"alphadev"
 			{
@@ -218,15 +218,27 @@
 			}
 			"beta"
 			{
-				"gid" "CBA58EDF63BC440328AAF2318C9F1E5F"
-				"size" "B0B991151FBE046B5191C4C4C33D43DB"
-				"download" "3A61DEA7D98488DEC448CF1CF676EDCC"
+				"gid" "C992C71E9235E9382BCF326036B9F3FD"
+				"size" "80ECF9AFE9D22D38A6BD355305CA4AD9"
+				"download" "55284ACBF5FADF8E92ABE233CEF19721"
 			}
 			"formb"
 			{
 				"gid" "354FB958C9DC0FC87DB3F3651C0994E0"
 				"size" "AB8FDCC93FB5EDC9BE6C18DF8876A59C"
 				"download" "318BC5C6CE0489A1658D3CB07F7041F1"
+			}
+			"fortestdropfps"
+			{
+				"gid" "90B8F1FC94E19A4848CABF53ECC9B039"
+				"size" "911743C28A862F2ED8F2169237E15D18"
+				"download" "5920F18A7B87D736892863EE3BE40D70"
+			}
+			"fortestpinghero"
+			{
+				"gid" "FA673C41DC2BEE6BE9FC5036597CC2D0"
+				"size" "D1B443B68207A473D539B27AE560912C"
+				"download" "D696D63E9FDEB12494F28758F3CA8D1C"
 			}
 			"trungtest"
 			{
@@ -240,14 +252,14 @@
 	{
 		"public"
 		{
-			"buildid" "13412568"
-			"timeupdated" "1707480729"
+			"buildid" "13478581"
+			"timeupdated" "1708102765"
 		}
 		"alpha"
 		{
-			"buildid" "13412568"
+			"buildid" "13478090"
 			"pwdrequired" "1"
-			"timeupdated" "1707480092"
+			"timeupdated" "1708099810"
 		}
 		"alphadev"
 		{
@@ -257,15 +269,27 @@
 		}
 		"beta"
 		{
-			"buildid" "13412560"
+			"buildid" "13478090"
 			"pwdrequired" "1"
-			"timeupdated" "1707468422"
+			"timeupdated" "1708099817"
 		}
 		"formb"
 		{
 			"buildid" "13394511"
 			"pwdrequired" "1"
 			"timeupdated" "1707323993"
+		}
+		"fortestdropfps"
+		{
+			"buildid" "13451544"
+			"pwdrequired" "1"
+			"timeupdated" "1707896841"
+		}
+		"fortestpinghero"
+		{
+			"buildid" "13451544"
+			"pwdrequired" "1"
+			"timeupdated" "1707897047"
 		}
 		"trungtest"
 		{
@@ -291,6 +315,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22276367"
-"_sha" "26493b87ebee5ce59569cd342db146f5441827db"
-"_size" "5578"
+"_change_number" "22377326"
+"_sha" "4ffdfd7cfd5459d53a041ae7c5c5724b0e364763"
+"_size" "6162"

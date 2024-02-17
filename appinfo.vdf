@@ -153,9 +153,9 @@
 		{
 			"public"
 			{
-				"gid" "6216827840462798649"
-				"size" "28715305985"
-				"download" "13974214768"
+				"gid" "6201040554836684956"
+				"size" "28715308833"
+				"download" "13974217104"
 			}
 		}
 		"encryptedmanifests"
@@ -174,21 +174,21 @@
 			}
 			"pre_default"
 			{
-				"gid" "E25C38663451F3C6E70B68B2C6118357"
-				"size" "35438DC0FDBDD879FB2599969DFE1F1E"
-				"download" "B4D0CA3BE629AEE44201D280736F6379"
+				"gid" "7557355629BD4C68CFEDD6C1118E42AE"
+				"size" "8B980CC6A88034BF417731DBCE91E0A8"
+				"download" "E8E043273ADFCC9571EB15FF6E55E3FB"
 			}
 			"pre_steam_china"
 			{
-				"gid" "B61214A874600F9D459EA1F1D95B7012"
-				"size" "CF1E9354D24564FE05B05D979A9AC3B0"
-				"download" "9AD9489B765A3D2D13A9B6F1503D8920"
+				"gid" "77E5A29710C140BC31344611E0E7ECCA"
+				"size" "3572757945C871EE9A6B23189FE91D05"
+				"download" "9ADC0C29927F6BCD15E7D91ABECCC3EE"
 			}
 			"steam_china_only"
 			{
-				"gid" "97680D23932694F5CBF6C112C6129A81"
-				"size" "1227F086DE4C26DCB27EC38CCDF3D43F"
-				"download" "59FF9CC4D7753E941F955C024B2B12D9"
+				"gid" "EE6EA54270F9E4EF434759FE17A90003"
+				"size" "92D51932477A5EC68A7B58B9E333AA39"
+				"download" "2882D9C642A5B59CB91DFB205E3E64F4"
 			}
 			"test"
 			{
@@ -203,14 +203,14 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "13474746"
+			"buildid" "13484433"
 			"pwdrequired" "1"
-			"timeupdated" "1708082644"
+			"timeupdated" "1708164418"
 		}
 		"public"
 		{
-			"buildid" "13473193"
-			"timeupdated" "1708082540"
+			"buildid" "13484210"
+			"timeupdated" "1708164212"
 		}
 		"alpha"
 		{
@@ -226,15 +226,15 @@
 		}
 		"pre_default"
 		{
-			"buildid" "13473193"
+			"buildid" "13484210"
 			"pwdrequired" "1"
-			"timeupdated" "1708074940"
+			"timeupdated" "1708159999"
 		}
 		"pre_steam_china"
 		{
-			"buildid" "13474746"
+			"buildid" "13484433"
 			"pwdrequired" "1"
-			"timeupdated" "1708079665"
+			"timeupdated" "1708162879"
 		}
 		"test"
 		{
@@ -260,6 +260,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22372657"
-"_sha" "2667537574271d886a0c6a0121a3c90fe18d465a"
+"_change_number" "22385943"
+"_sha" "5f107c170cb2abfa0a1d445ef6cdabdb29f177d1"
 "_size" "4924"

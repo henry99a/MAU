@@ -153,18 +153,18 @@
 		{
 			"public"
 			{
-				"gid" "6201040554836684956"
-				"size" "28715308833"
-				"download" "13974217104"
+				"gid" "6882769028113120574"
+				"size" "29457975601"
+				"download" "14257790560"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"alpha"
 			{
-				"gid" "95494ED21E2B87A60FD3BD242E6F6625"
-				"size" "11DEA7717D6BBB8C649DE2E86452BD21"
-				"download" "BCBACB7ED8ED449ECBA0960F2890A909"
+				"gid" "0CCB69B7E1EA2CCB77A0367331E11A97"
+				"size" "F6DEBDB925FE59CB3D2E85D85F664953"
+				"download" "93B7C169E23062F6115E72BA7B7D24C7"
 			}
 			"debug"
 			{
@@ -174,21 +174,21 @@
 			}
 			"pre_default"
 			{
-				"gid" "7557355629BD4C68CFEDD6C1118E42AE"
-				"size" "8B980CC6A88034BF417731DBCE91E0A8"
-				"download" "E8E043273ADFCC9571EB15FF6E55E3FB"
+				"gid" "EAEF97BA803385C007E74F6ACB0AB819"
+				"size" "89CD814B9C8F540E3CFBDA2FE9BF97EB"
+				"download" "63857C21A2C27DF6131A2B739FD726EE"
 			}
 			"pre_steam_china"
 			{
-				"gid" "77E5A29710C140BC31344611E0E7ECCA"
-				"size" "3572757945C871EE9A6B23189FE91D05"
-				"download" "9ADC0C29927F6BCD15E7D91ABECCC3EE"
+				"gid" "D41B513058C029AC8E794EB7F47B58FB"
+				"size" "6698B5213B198CD3AE3FF016EBA65301"
+				"download" "656FD1D6861B10E8F924C9C4AAE393B3"
 			}
 			"steam_china_only"
 			{
-				"gid" "EE6EA54270F9E4EF434759FE17A90003"
-				"size" "92D51932477A5EC68A7B58B9E333AA39"
-				"download" "2882D9C642A5B59CB91DFB205E3E64F4"
+				"gid" "B54F1AE09CD00666F692EDC3A5AC6BD5"
+				"size" "8381CD71411349C8BF4BAB4C405C1219"
+				"download" "9804152814CB96ACC5352F1CA268D06F"
 			}
 			"test"
 			{
@@ -203,20 +203,20 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "13484433"
+			"buildid" "13506099"
 			"pwdrequired" "1"
-			"timeupdated" "1708164418"
+			"timeupdated" "1708426861"
 		}
 		"public"
 		{
-			"buildid" "13484210"
-			"timeupdated" "1708164212"
+			"buildid" "13505404"
+			"timeupdated" "1708426803"
 		}
 		"alpha"
 		{
-			"buildid" "13472950"
+			"buildid" "13493609"
 			"pwdrequired" "1"
-			"timeupdated" "1708067040"
+			"timeupdated" "1708313034"
 		}
 		"debug"
 		{
@@ -226,15 +226,15 @@
 		}
 		"pre_default"
 		{
-			"buildid" "13484210"
+			"buildid" "13505404"
 			"pwdrequired" "1"
-			"timeupdated" "1708159999"
+			"timeupdated" "1708418563"
 		}
 		"pre_steam_china"
 		{
-			"buildid" "13484433"
+			"buildid" "13506099"
 			"pwdrequired" "1"
-			"timeupdated" "1708162879"
+			"timeupdated" "1708423070"
 		}
 		"test"
 		{
@@ -260,6 +260,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22385943"
-"_sha" "5f107c170cb2abfa0a1d445ef6cdabdb29f177d1"
+"_change_number" "22421776"
+"_sha" "8e37f7e8e1f4f27bbdb77176ad9a2abc5191fdba"
 "_size" "4924"
